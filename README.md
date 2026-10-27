@@ -10,6 +10,7 @@ Course labs and practice work for Machine Learning.
 | Week 2 | Data Cleaning & EDA — Telco Customer Churn | [week 2/Lab2_023-24-0234.ipynb](week%202/Lab2_023-24-0234.ipynb) |
 | Week 3 | Decision Tree Classification — Training, Evaluation & Overfitting | [week 3/lab3_AftabAsghar_churn_dt.ipynb](week%203/lab3_AftabAsghar_churn_dt.ipynb) |
 | Week 7 | Naive Bayes — Spam Detection & Sentiment Analysis | [week 7/week7_AftabAsghar_naive_bayes.ipynb](week%207/week7_AftabAsghar_naive_bayes.ipynb) |
+| Lab 9 (After Mid) | Bias, Variance & Imbalanced Data — Stroke Prediction | [After Mid/week2/week9_AftabAsghar_bias_variance_imbalance.ipynb](After%20Mid/week2/week9_AftabAsghar_bias_variance_imbalance.ipynb) |
 
 ### Week 2 files
 
@@ -36,6 +37,14 @@ Course labs and practice work for Machine Learning.
 | `spam.csv` / `SMS Spam Collection Dataset/` | SMS Spam Collection dataset (5,572 messages, ham/spam) |
 | `Tweets.csv` / `Twitter US Airline Sentiment/` | Twitter US Airline Sentiment dataset (14,640 tweets, negative/neutral/positive) |
 | `week7_ML_FA26.pdf` | Lab manual |
+
+### Lab 9 (After Mid) files
+
+| File | Description |
+| --- | --- |
+| `week9_AftabAsghar_bias_variance_imbalance.ipynb` | Bias-variance analysis (validation/learning curves, bootstrap variance), ROC/PR curves and threshold tuning, class imbalance handling (`class_weight`, undersampling, oversampling, SMOTE) with a SMOTE-leakage demonstration, and label/feature noise robustness testing, on the Kaggle Stroke Prediction dataset |
+| `healthcare-dataset-stroke-data_1.csv` | Stroke Prediction dataset (5,110 patients, 10 health/lifestyle features, target: stroke) |
+| `Lab9_Bias_Variance_Imbalance_Manual.pdf` | Lab manual |
 
 ## Requirements
 
